@@ -1,0 +1,17 @@
+# Hexo 生成的静态文件
+public/
+.deploy_git/
+
+# Hexo 缓存文件
+db.json
+*.log
+
+# 其他常见的忽略规则
+node_modules/
+.DS_Store
+Thumbs.db
+
+# 编辑器生成的文件
+.vscode/
+.idea/
+*.swp
